@@ -367,7 +367,7 @@ function loadsample4(){
   labelTag.innerHTML = "Sample 4";
 
   // Call classifier 
-  classify_sample('Qiaomu.wav')
+  classify_sample('Recorded.wav')
 };
 
 
