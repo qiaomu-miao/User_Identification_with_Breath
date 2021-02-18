@@ -18,6 +18,6 @@ You can also upload a .wav breath file from the "storage" folder by clicking the
 Note: We have only implemented the user identification for users within the registered group. Sorry but identification for users outside the group is not available.
 
 ### Train your own model
-The `Classification.py` file in the "Train_model" folder contains the code for training the RNN model and evaluating its performance. The model weights are stored in the "models" folder for classification of users participating in our project. You can modify this file to train your own model. <br> 
+The `Classification.py` file in the "Train_model" folder contains the separate code for training the RNN model and evaluating its performance. The model weights are stored in the "models" folder for classification of users participating in our project. You can modify this file to train your own model. <br> 
 
 The "js" folder contains the javascript file for web app development. The code for web app development is modified based on the code from [Disfluency-Removal-API](https://github.com/sagniklp/Disfluency-Removal-API), sincere thankfulness to the authors.
