@@ -157,7 +157,7 @@ class send_audio_sample4:
         web.header('Access-Control-Allow-Credentials', 'true')
         web.header('Access-Control-Allow-Methods',  'POST, GET, OPTIONS')
 
-        return open(dir_+'storage/Qiaomu.wav','rb')
+        return open(dir_+'storage/Recorded.wav','rb')
 
 
 class get_audio_file:
